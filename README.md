@@ -7,6 +7,7 @@ How to run this project:
 
 Example of vscode debugger config:
 
+```
 {
     "version": "0.2.0",
     "configurations": [
@@ -20,3 +21,4 @@ Example of vscode debugger config:
         }
     ]
 }
+```
